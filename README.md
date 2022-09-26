@@ -7,8 +7,7 @@ I am currently pursuing independent studies within: Cybersecurity, Software Deve
 | Familiar Languages | Frameworks & Libraries |
 | ----------------- | --------------------------------- |
 | Type & JavaScript | Node.js, React, Next.js, Three.js |
-|       C/C++       | Boost, OpenFrameworks |  
+|       C/C++       | OpenFrameworks |  
 |       Java        | Spring |
-|      Python       | Socket, Pyautogui, Django |
 
 Connect with me --> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jt-hankins/)
